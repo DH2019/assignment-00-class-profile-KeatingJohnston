@@ -1,7 +1,7 @@
 {
   "firstName": "Keating",
   "lastName": "Johnston",
-  "nickName": "Keats",
+  "nickName": "Keat",
   "privateName": false,
   "picture": "images/KeatingJohnston.jpg",
   "privatePicture": false,
@@ -10,5 +10,5 @@
   "github": "KeatingJohnston",
   "privateGithub": false,
   "superpower" : "super manicures",
-  "academicinterests": "Old things"
+  "academicinterests": "Old things, the smell of a good book."
 }
