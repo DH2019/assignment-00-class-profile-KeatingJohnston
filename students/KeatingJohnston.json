@@ -1,0 +1,14 @@
+{
+  "firstName": "Keating",
+  "lastName": "Johnston",
+  "nickName": "Keat",
+  "privateName": false,
+  "picture": "images/KeatingJohnston.jpg",
+  "privatePicture": false,
+  "email": "keating.johnston@mail.utoronto.ca",
+  "privateEmail": true,
+  "github": "KeatingJohnston",
+  "privateGithub": false,
+  "superpower" : "Super Manicures",
+  "academicinterests": "Old things, the smell of a good book."
+}
